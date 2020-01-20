@@ -1,0 +1,573 @@
+
+body{
+	margin:0;
+	    background-color:#fff;
+		
+ 
+}
+.main{
+<!-- width:1341px; -->
+<!-- height:2105px; -->
+<!-- border:1px solid red; -->
+background-color:rgb(185,48,5);
+
+
+}
+.head1{
+margin-top:55px;
+margin-left:20;
+padding-left:40px;
+
+}
+.container1{
+height:120px;
+background-color:#fff;
+<!-- width:1340px; -->
+
+
+
+
+
+}
+.container2{
+
+height:170px;
+
+margin-top:0px;
+background-color:rgb(60, 60, 60);
+
+}
+.container3{
+
+    height: 330px;
+background-image:url("Welcome.jpg");
+margin-top:20px;
+}
+.container4{
+
+height:100px;
+background-color:#green;
+}
+
+ .content1-marquee{
+ 
+height:35px;
+background-color:rgb(255, 229, 235);
+ font-family:1em/1.3em droid_sansregular, Arial, sans-serif;
+ font-size:17px;
+ font-weight:bold;
+ color: #000;
+ vertical-align: baseline;
+ margin: 0;
+ padding:0;
+ align:center;
+ overflow: hidden;
+ }
+ .picture1{
+  
+height:350px;
+  background-color:white;
+ }
+  .picture2{
+  
+height:200px;
+ background-color:green;
+ 
+ }
+ .visitors{
+ margin-top:-20px;
+    margin-left:1000px;
+	display:block;
+	color:#fff;
+	font-size: .92em;
+	padding-bottom:10px;
+ 
+ }
+  .socialcontent{
+   background-image:url("pic1.png");
+     
+     height:450px;
+  
+  
+  
+  }
+   .content2{
+     background: #cf2436;
+	 
+     height:254px; 
+	 
+  
+}
+ .content2 a{
+	text-decoration:none;
+	
+ }
+ 
+  .content2 a:hover {
+  text-decoration: underline;
+}
+ .d1{
+
+ width:300px;
+height:40px;
+ margin-top:0px;
+background: #cf2436;
+
+ }
+ .d1 a{
+      color:white;
+ 
+ }
+ .d2{width:300px;
+height:250px;
+background: #cf2436;
+  margin-left:325px;
+  margin-top:-60px;
+ }
+ .d3{
+ width:300px;
+height:340px;
+ margin-left:650px;
+ margin-top:-270px;
+background: #cf2436;
+
+ 
+ }
+ .d4{width:300px;
+height:340px;
+
+ margin-left:980px;
+ margin-top:-360px;
+ background: #cf2436;;
+ 
+ }
+ .d2 a{
+      color:white;
+ 
+ }
+ .d3 a{
+      color:white;
+ 
+ }
+ .d4 a{
+      color:white;
+ 
+ }
+
+ }
+  .downloadNow  {
+    font-family: 'MyriadPro-Regular';
+    display: inline-block;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 26px;
+    padding-top: 2px;
+	background-color:red;
+	
+}
+.title {
+    font-family: 'MyriadPro-Regular';
+    display: inline-block;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 30px;
+    padding-top: 2px;
+	margin-left:70px;
+	
+}
+  .list{
+ font-size:20px; 
+ font-color:white;
+ background: #cf2436;;
+
+  }
+   .copyright {
+    font-size: .77em;
+    color: #fff;
+    padding-bottom: 10px;
+	    font-family: 'MyriadPro-Regular';
+    font-size: 14px;
+	text-align:center;
+	margin-top:-20px;
+	margin-left:-220px;
+	background-color:rgb(60, 60, 60));
+	
+   }
+   .footerNav {
+    float: left;
+	display :inline;
+	
+	}
+	
+
+		.cf{
+		display:block;
+		margin-left:60px;
+		margin-top:10px;
+			color:blue;
+			display:inline;
+			
+			font-size:14px;
+			
+		}
+		.cf a {
+		color:white; 
+		padding:0.01px;
+		margin-top:10px;
+			margin-left:20px;
+		text-decoration:none;
+		}
+		 .cf a:hover {
+  text-decoration: underline;
+}
+		.cf ul li{
+		display:inline-block;
+		}
+.displayNone {
+    display: none!important;
+	
+}
+.valid {
+   margin-top:-40px;
+	margin-left:660px;
+}
+.appDownload{
+     margin-left:10px;
+    height: auto;
+	
+}
+.cargoBlockNew{
+
+	    float: left;
+		height:300px;
+		
+		margin-left:420px;
+		margin-top:-418px;
+
+
+}
+.newsBlockNew .title {
+    font-size: 44px;
+    font-family: 'Kalinga-Bold';
+    line-height: 44px;
+    text-transform:uppercase;
+    color: #fff;
+        word-spacing: 2px;
+		
+		}
+.newsBlockNew a {
+    padding: 57px 0;
+    display: block;
+    text-decoration: none;
+	padding: 38px 0;
+	text-align: center;
+	margin-right:20px;
+	
+	height:40px;
+	font-color:white;
+}
+.newsBlockNew  {
+    font-family: 'Kalinga-Bold';
+    color: #fff;
+    font-size: 12px;
+	margin-top:23px;
+	margin-left:1px;
+	width: 402px;
+	    height: 140px;
+}
+.newsBullets {
+    font-family: 'Kalinga-Bold';
+    color: #fff;
+    font-size: 10px;
+	display: block;
+    font-size: 12px;
+	margin-top:20px;
+	margin-left:570px;
+	
+	
+}
+
+
+.date {
+    display: block;
+    font-size: 12px;
+	margin-top:-20px;
+	margin-left:-700px;
+	
+}
+.callSupportNew .trollNumber {
+    height: 200px;
+    padding: 26px 25px 0 25px;
+}
+.tollFreeNo {
+    font-size: 26px;
+    font-family: 'MyriadPro-Bold';
+    line-height: 0.2px;
+	
+}
+.callSupportNew  {
+    background: url(troll-bg.jpg) ;
+	
+    height: 297px;
+    padding: 80px 25px 0 25px;
+    font-family: 'MyriadPro-Regular';
+    text-transform: uppercase;
+    color: #cf2436;
+    font-size: 18px;
+    line-height: 22px;
+}
+ .trollNumber {
+    background: url(troll-bg.jpg) left top no-repeat;
+	
+    height: 257px;
+
+    padding: 80px 25px 0 25px;
+    font-family: 'MyriadPro-Regular';
+    text-transform: uppercase;
+    color: #cf2436;
+    font-size: 16px;
+    line-height: 22px;
+	margin-left:930px;
+	margin-top:-410px;
+	
+}
+.title2 {
+    font-family: 'MyriadPro-Regular';
+    display: inline-block;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 26px;
+    padding-top: 4px;
+	margin-left:930px;
+	    width: 400px;
+		margin-top:1px;
+		height:48px;
+		
+    background-color:rgb(185,48,5);
+	
+}
+}
+.socialLinks {
+    background: #cf2436;
+    padding: 25px 0;
+    text-align: center;
+}
+.enrollLink{
+    font-size: 22px;
+	
+	margin-left:1180px;
+	margin-top:-26px;
+	color:red;
+
+}
+.enrollLink a{
+color:red;
+letter-spacing:1px;
+}
+.title{
+margin-left: 160;
+    font-size: 20px;
+	
+	
+}
+ .title a{
+color:red;
+letter-spacing:1px;
+}
+.toggleMenu{
+
+    width auto
+    width: 130px;
+   
+    padding: 0 3px;
+    font-family:'Geometric415BT-LiteA';
+    color: #cf2436;
+	margin-left:1090px;
+	margin-top:-60px;
+	
+}
+
+.countryFlag {
+    cursor: pointer;
+	margin-left:1150px;
+	margin-top:-60px;
+	
+}
+.languageFlag, .languageCode {
+    float: left;
+	font-size: 25px;
+	  color: #000;
+	  margin-top:20px;
+	  
+}
+.languageCodeHnd{
+    float: left;
+	font-size: 25px;
+	  color: #000;
+	  margin-top:20px;
+	  
+}
+
+
+
+
+.searchNew .searchIconNew {
+    background-position: 100% 0;
+    width: 50px;
+    height: 50px;
+	margin-left:200px;
+}
+ .searchIconNew {
+    cursor: pointer;
+    
+}
+.search1{
+margin-left:910px;
+margin-top:-60px;
+}
+.search1 img{
+
+width:45px;
+}
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 17px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 162px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: gray;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+.dropbtn {
+  background-color: orange;
+  color: white;
+  padding: 16px 41px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  
+}
+.slideTabsNew li.bookFlight a {
+    padding: 0 0px 0 70px;
+}
+.slideTabsNew li.bookFlight a {
+    background-position: 0 -114px;
+    padding: 0 0px 0 70px;
+}
+.slideTabsNew li.bookFlight a, .slideTabsNew li.flightPreferSeat a, .slideTabsNew li.flightCheckIn a, .slideTabsNew li.flightStatusInfo a, .slideTabsNew li.scheduleFlight a {
+    text-align: left;
+    position: relative;
+    text-decoration: none;
+}
+.slideTabsNew li a {
+    color: #fff;
+    font-size: 22px;
+    font-family: 'MyriadPro-Regular';
+    color: #fff;
+    height: 56px;
+    line-height: 56px;
+    display: inline-block;
+}
+.slideTabsNew {
+    background: #cf2436;
+    padding: 20px;}
+	.slideTabsNew li.bookFlight a:before {
+    background-position: 0 -114px;
+    width: 56px;
+    height: 50px;
+}
+.slideTabsNew li.bookFlight a:before, .slideTabsNew li.flightPreferSeat a:before, .slideTabsNew li.flightCheckIn a:before, .slideTabsNew li.flightStatusInfo a:before, .slideTabsNew li.scheduleFlight a:before {
+    position: absolute;
+    left: 0;
+    top: 0;
+    content: "";
+    transition: all 0.3s ease-in-out 0s;
+}
+.seat{
+
+margin-left:200px;
+margin-top:-120px;
+
+}
+.opt{
+margin-left:100px;
+}
+ slideTabsNew a{
+	 text-decoration:none;
+ }
+ slideTabsNew a:hover{
+	 
+	 text-decoration:underline;
+ }
+.bf1{
+
+font-size:20px;
+color:white;
+margin:50px;
+}
+.bf2{
+
+font-size:20px;
+color:white;
+margin:30px;
+}
+.bf3{
+
+font-size:20px;
+color:white;
+margin:30px;
+}
+.bf4{
+font-size:20px;
+color:white;
+margin:30px;
+padding:13px;
+}
+.mySlides {display:none;}
+.contactDrop {
+    background: url(dropd-ar.gif) 98.5% 8px no-repeat rgb(255, 255, 255);
+	
+}
+
+.callNew {
+    margin-top:25px;
+	margin-left:400px;
+}
+
+
+
+
